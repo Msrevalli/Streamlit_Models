@@ -1,4 +1,6 @@
-streamlit 
+streamlit
+transformers
+torch
 torchvision
+opencv-python
 pillow
-
